@@ -21,6 +21,7 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-color: #fff4e1;
   -moz-osx-font-smoothing: grayscale;
 }
 
